@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\DEV_Android\Projects\Squares\app\libs\retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\DEV_Android\Projects\Squares\app\build\intermediates\transforms\dex\debug\folders\1000\2\retrofit-2.0.2_17d80e042b76613af6c40f6d11907d9448c40caf\classes.dex" />
+    </item>
+
+</items>
